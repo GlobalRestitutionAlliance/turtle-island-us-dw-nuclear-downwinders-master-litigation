@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nuclear-downwindersian-restitution-roadmap-and-qsf-trust-execution
-  name: Nuclear Downwindersian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/nuclear-downwindersian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_dw_001
+    name: Nuclear Downwinders Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_002
+    name: Nuclear Downwinders Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_003
+    name: Nuclear Downwinders Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_004
+    name: Nuclear Downwinders Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_005
+    name: Nuclear Downwinders Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_006
+    name: Nuclear Downwinders Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_007
+    name: Nuclear Downwinders Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_008
+    name: Nuclear Downwinders Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_009
+    name: Nuclear Downwinders Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_010
+    name: Nuclear Downwinders Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_011
+    name: Nuclear Downwinders Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_012
+    name: Nuclear Downwinders Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_013
+    name: Nuclear Downwinders Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_014
+    name: Nuclear Downwinders Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_015
+    name: Nuclear Downwinders Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_016
+    name: Nuclear Downwinders Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_017
+    name: Nuclear Downwinders Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_018
+    name: Nuclear Downwinders Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_019
+    name: Nuclear Downwinders Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_020
+    name: Nuclear Downwinders Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_021
+    name: Nuclear Downwinders Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_022
+    name: Nuclear Downwinders Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_023
+    name: Nuclear Downwinders Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_024
+    name: Nuclear Downwinders Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_025
+    name: Nuclear Downwinders Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_026
+    name: Nuclear Downwinders Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_027
+    name: Nuclear Downwinders Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_028
+    name: Nuclear Downwinders Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_029
+    name: Nuclear Downwinders Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_030
+    name: Nuclear Downwinders Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_031
+    name: Nuclear Downwinders Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_032
+    name: Nuclear Downwinders Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_033
+    name: Nuclear Downwinders Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_034
+    name: Nuclear Downwinders Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_035
+    name: Nuclear Downwinders Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_036
+    name: Nuclear Downwinders Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_037
+    name: Nuclear Downwinders Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_038
+    name: Nuclear Downwinders Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_039
+    name: Nuclear Downwinders Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_040
+    name: Nuclear Downwinders Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_041
+    name: Nuclear Downwinders Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_042
+    name: Nuclear Downwinders Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_043
+    name: Nuclear Downwinders Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_044
+    name: Nuclear Downwinders Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_045
+    name: Nuclear Downwinders Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_046
+    name: Nuclear Downwinders Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_047
+    name: Nuclear Downwinders Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_048
+    name: Nuclear Downwinders Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_049
+    name: Nuclear Downwinders Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_050
+    name: Nuclear Downwinders Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_051
+    name: Nuclear Downwinders Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_052
+    name: Nuclear Downwinders Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_053
+    name: Nuclear Downwinders Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_054
+    name: Nuclear Downwinders Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_055
+    name: Nuclear Downwinders Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_056
+    name: Nuclear Downwinders Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_057
+    name: Nuclear Downwinders Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_058
+    name: Nuclear Downwinders Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_059
+    name: Nuclear Downwinders Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_060
+    name: Nuclear Downwinders Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_061
+    name: Nuclear Downwinders Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_062
+    name: Nuclear Downwinders Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_063
+    name: Nuclear Downwinders Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_064
+    name: Nuclear Downwinders Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_065
+    name: Nuclear Downwinders Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_066
+    name: Nuclear Downwinders Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_067
+    name: Nuclear Downwinders Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_068
+    name: Nuclear Downwinders Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_069
+    name: Nuclear Downwinders Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_070
+    name: Nuclear Downwinders Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_071
+    name: Nuclear Downwinders Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_072
+    name: Nuclear Downwinders Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_073
+    name: Nuclear Downwinders Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_074
+    name: Nuclear Downwinders Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_075
+    name: Nuclear Downwinders Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_076
+    name: Nuclear Downwinders Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_077
+    name: Nuclear Downwinders Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_078
+    name: Nuclear Downwinders Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_079
+    name: Nuclear Downwinders Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_080
+    name: Nuclear Downwinders Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_081
+    name: Nuclear Downwinders Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_082
+    name: Nuclear Downwinders Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_083
+    name: Nuclear Downwinders Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_084
+    name: Nuclear Downwinders Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_085
+    name: Nuclear Downwinders Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_086
+    name: Nuclear Downwinders Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_087
+    name: Nuclear Downwinders Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_088
+    name: Nuclear Downwinders Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_089
+    name: Nuclear Downwinders Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_090
+    name: Nuclear Downwinders Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_091
+    name: Nuclear Downwinders Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_092
+    name: Nuclear Downwinders Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_093
+    name: Nuclear Downwinders Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_094
+    name: Nuclear Downwinders Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_095
+    name: Nuclear Downwinders Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_096
+    name: Nuclear Downwinders Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_097
+    name: Nuclear Downwinders Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_098
+    name: Nuclear Downwinders Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_099
+    name: Nuclear Downwinders Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_100
+    name: Nuclear Downwinders Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_101
+    name: Nuclear Downwinders Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_102
+    name: Nuclear Downwinders Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_103
+    name: Nuclear Downwinders Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_104
+    name: Nuclear Downwinders Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_105
+    name: Nuclear Downwinders Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_106
+    name: Nuclear Downwinders Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_107
+    name: Nuclear Downwinders Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_108
+    name: Nuclear Downwinders Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_109
+    name: Nuclear Downwinders Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_110
+    name: Nuclear Downwinders Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_111
+    name: Nuclear Downwinders Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_112
+    name: Nuclear Downwinders Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_113
+    name: Nuclear Downwinders Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_114
+    name: Nuclear Downwinders Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_115
+    name: Nuclear Downwinders Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_116
+    name: Nuclear Downwinders Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_117
+    name: Nuclear Downwinders Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_118
+    name: Nuclear Downwinders Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_119
+    name: Nuclear Downwinders Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_120
+    name: Nuclear Downwinders Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_121
+    name: Nuclear Downwinders Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_122
+    name: Nuclear Downwinders Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_123
+    name: Nuclear Downwinders Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_124
+    name: Nuclear Downwinders Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_125
+    name: Nuclear Downwinders Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_126
+    name: Nuclear Downwinders Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_127
+    name: Nuclear Downwinders Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_128
+    name: Nuclear Downwinders Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_129
+    name: Nuclear Downwinders Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_130
+    name: Nuclear Downwinders Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_131
+    name: Nuclear Downwinders Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_132
+    name: Nuclear Downwinders Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_133
+    name: Nuclear Downwinders Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_134
+    name: Nuclear Downwinders Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_135
+    name: Nuclear Downwinders Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_136
+    name: Nuclear Downwinders Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_137
+    name: Nuclear Downwinders Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_138
+    name: Nuclear Downwinders Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_139
+    name: Nuclear Downwinders Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_140
+    name: Nuclear Downwinders Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_141
+    name: Nuclear Downwinders Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_142
+    name: Nuclear Downwinders Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_143
+    name: Nuclear Downwinders Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_144
+    name: Nuclear Downwinders Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_145
+    name: Nuclear Downwinders Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_146
+    name: Nuclear Downwinders Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_147
+    name: Nuclear Downwinders Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_148
+    name: Nuclear Downwinders Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_149
+    name: Nuclear Downwinders Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_150
+    name: Nuclear Downwinders Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_151
+    name: Nuclear Downwinders Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_152
+    name: Nuclear Downwinders Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_153
+    name: Nuclear Downwinders Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_154
+    name: Nuclear Downwinders Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_155
+    name: Nuclear Downwinders Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_156
+    name: Nuclear Downwinders Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_157
+    name: Nuclear Downwinders Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_158
+    name: Nuclear Downwinders Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_159
+    name: Nuclear Downwinders Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_160
+    name: Nuclear Downwinders Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_161
+    name: Nuclear Downwinders Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_162
+    name: Nuclear Downwinders Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_163
+    name: Nuclear Downwinders Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_164
+    name: Nuclear Downwinders Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_165
+    name: Nuclear Downwinders Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_166
+    name: Nuclear Downwinders Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_167
+    name: Nuclear Downwinders Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_168
+    name: Nuclear Downwinders Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_169
+    name: Nuclear Downwinders Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_170
+    name: Nuclear Downwinders Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_171
+    name: Nuclear Downwinders Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_172
+    name: Nuclear Downwinders Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_173
+    name: Nuclear Downwinders Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_174
+    name: Nuclear Downwinders Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_175
+    name: Nuclear Downwinders Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_176
+    name: Nuclear Downwinders Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_177
+    name: Nuclear Downwinders Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_178
+    name: Nuclear Downwinders Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_179
+    name: Nuclear Downwinders Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_180
+    name: Nuclear Downwinders Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_181
+    name: Nuclear Downwinders Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_182
+    name: Nuclear Downwinders Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_183
+    name: Nuclear Downwinders Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_184
+    name: Nuclear Downwinders Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_185
+    name: Nuclear Downwinders Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_186
+    name: Nuclear Downwinders Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_187
+    name: Nuclear Downwinders Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_188
+    name: Nuclear Downwinders Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_189
+    name: Nuclear Downwinders Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_190
+    name: Nuclear Downwinders Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_191
+    name: Nuclear Downwinders Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_192
+    name: Nuclear Downwinders Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_193
+    name: Nuclear Downwinders Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_194
+    name: Nuclear Downwinders Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_195
+    name: Nuclear Downwinders Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_196
+    name: Nuclear Downwinders Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_197
+    name: Nuclear Downwinders Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_198
+    name: Nuclear Downwinders Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_199
+    name: Nuclear Downwinders Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_200
+    name: Nuclear Downwinders Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_201
+    name: Nuclear Downwinders Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_202
+    name: Nuclear Downwinders Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_203
+    name: Nuclear Downwinders Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_204
+    name: Nuclear Downwinders Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_205
+    name: Nuclear Downwinders Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_206
+    name: Nuclear Downwinders Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_207
+    name: Nuclear Downwinders Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_208
+    name: Nuclear Downwinders Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_209
+    name: Nuclear Downwinders Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_210
+    name: Nuclear Downwinders Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_211
+    name: Nuclear Downwinders Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_212
+    name: Nuclear Downwinders Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_213
+    name: Nuclear Downwinders Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_214
+    name: Nuclear Downwinders Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_215
+    name: Nuclear Downwinders Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_216
+    name: Nuclear Downwinders Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_217
+    name: Nuclear Downwinders Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_218
+    name: Nuclear Downwinders Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_219
+    name: Nuclear Downwinders Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_220
+    name: Nuclear Downwinders Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_221
+    name: Nuclear Downwinders Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_222
+    name: Nuclear Downwinders Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_223
+    name: Nuclear Downwinders Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_224
+    name: Nuclear Downwinders Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_225
+    name: Nuclear Downwinders Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_226
+    name: Nuclear Downwinders Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_227
+    name: Nuclear Downwinders Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_228
+    name: Nuclear Downwinders Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_229
+    name: Nuclear Downwinders Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_230
+    name: Nuclear Downwinders Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_231
+    name: Nuclear Downwinders Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_232
+    name: Nuclear Downwinders Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_233
+    name: Nuclear Downwinders Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_234
+    name: Nuclear Downwinders Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_235
+    name: Nuclear Downwinders Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_236
+    name: Nuclear Downwinders Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_237
+    name: Nuclear Downwinders Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_238
+    name: Nuclear Downwinders Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_239
+    name: Nuclear Downwinders Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_240
+    name: Nuclear Downwinders Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_241
+    name: Nuclear Downwinders Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_242
+    name: Nuclear Downwinders Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_243
+    name: Nuclear Downwinders Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_244
+    name: Nuclear Downwinders Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_245
+    name: Nuclear Downwinders Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_246
+    name: Nuclear Downwinders Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_247
+    name: Nuclear Downwinders Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_248
+    name: Nuclear Downwinders Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_249
+    name: Nuclear Downwinders Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_250
+    name: Nuclear Downwinders Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_251
+    name: Nuclear Downwinders Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dw_252
+    name: Nuclear Downwinders Skill 252
+    status: ACTIVE_SCAFFOLD
