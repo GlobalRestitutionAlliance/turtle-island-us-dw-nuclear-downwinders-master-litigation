@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [US National Archives](https://www.archives.gov/)
 - [Library of Congress](https://www.loc.gov/)
 - [US State Dept FRUS](https://history.state.gov/historicaldocuments)
@@ -21,3 +20,6 @@
 - [NNSA](https://www.energy.gov/nnsa/national-nuclear-security-administration)
 - [RECA Program (DOJ)](https://www.justice.gov/civil/common/reca)
 - [NARA - Nuclear Testing Records](https://www.archives.gov/research/military/atomic-energy)
+- [NNSA Nevada Field Office](https://www.nnss.gov/)
+- [CDC NIOSH Radiation](https://www.cdc.gov/niosh/ocas/ocascomp.html)
+- [Congress.gov RECA amendments](https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Radiation+Exposure+Compensation+Act%22%7D)

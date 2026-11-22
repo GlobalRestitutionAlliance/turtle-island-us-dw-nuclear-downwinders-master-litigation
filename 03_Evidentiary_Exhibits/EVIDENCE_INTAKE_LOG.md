@@ -25,3 +25,13 @@
 | 2026-11-22 | NNSA.html | https://www.energy.gov/nnsa/national-nuclear-security-administration | OpenCode/harvest | 1fd984ec2b6fca82481286b3d5bfcad56673bc491e55560fe403a50dceac64f6 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=147416 |
 | 2026-11-22 | RECA_Program_DOJ_.html | https://www.justice.gov/civil/common/reca | OpenCode/harvest | 8593099cfa9080a4e15922050a2164597a843a44313e5c9c845b7904f86accd5 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=98717 |
 | 2026-11-22 | NARA - Nuclear Testing Records | https://www.archives.gov/research/military/atomic-energy | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | NARA - Nuclear Testing Records | https://www.archives.gov/research/military/atomic-energy | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | NNSA_Nevada_Field_Office.html | https://www.nnss.gov/ | OpenCode/harvest | ed6bd40248482080fac9d19100ed847b1d3f269aa61cdcfa6c655b67215cd5d4 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=127460 |
+| 2026-11-22 | CDC NIOSH Radiation | https://www.cdc.gov/niosh/ocas/ocascomp.html | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Congress.gov RECA amendments | https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Radiation+Exposure+Compensation+Act%22%7D | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
