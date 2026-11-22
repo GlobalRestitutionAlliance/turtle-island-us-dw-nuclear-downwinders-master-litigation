@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://www.cdc.gov/niosh/ocas/ocascomp.html | `03_Evidentiary_Exhibits/Immutable_Ledger/CDC_NIOSH_Radiation_browser.html` | `86382d059554badc...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `aff823e91b712f5e...` | PENDING_LEGAL_REVIEW
