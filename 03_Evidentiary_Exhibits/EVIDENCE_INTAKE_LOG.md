@@ -9,3 +9,19 @@
 | 2026-11-21 | US_04_DOJ_Civil_Rights_Division.html | https://www.justice.gov/crt | OpenCode/harvest | f40ca2dddc85001cdd63524f1a610b457e76bf66801fd591d4666fa9ffb151ff | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=114207 |
 | 2026-11-21 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
 | 2026-11-21 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Internet_Archive.html | https://archive.org/ | OpenCode/harvest | 329de0d85f6904215feec653c153fdc1f7f8807e3bfaedb8c05542fcf3c2419f | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=2046 |
+| 2026-11-22 | FOIA.gov.html | https://www.foia.gov/ | OpenCode/harvest | f5d10771ce3454fd963a95270556355d458d78fd3291682bce9580e11fad1067 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=28089 |
+| 2026-11-22 | NARA_FOIA.html | https://www.archives.gov/foia | OpenCode/harvest | 10a153c64fe2af1e0ff231a21507c4f5d0ee75706dff0532d5dd63839c47fe66 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=41023 |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | WorldCat.html | https://search.worldcat.org/ | OpenCode/harvest | 8f4e75909c49686dd24f08b87a964bba0d8ef3ff12b8b2e8febfd85be828c2cb | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=460996 |
+| 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
+| 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
+| 2026-11-22 | DOE_OpenNet_Declassified.html | https://www.osti.gov/opennet/ | OpenCode/harvest | db8fbc75e128b6fcc8ea7a9b6f2d85442a19e7c503835cb709f3a4dc48f5830f | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=22655 |
+| 2026-11-22 | NNSA.html | https://www.energy.gov/nnsa/national-nuclear-security-administration | OpenCode/harvest | 1fd984ec2b6fca82481286b3d5bfcad56673bc491e55560fe403a50dceac64f6 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=147416 |
+| 2026-11-22 | RECA_Program_DOJ_.html | https://www.justice.gov/civil/common/reca | OpenCode/harvest | 8593099cfa9080a4e15922050a2164597a843a44313e5c9c845b7904f86accd5 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=98717 |
+| 2026-11-22 | NARA - Nuclear Testing Records | https://www.archives.gov/research/military/atomic-energy | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |

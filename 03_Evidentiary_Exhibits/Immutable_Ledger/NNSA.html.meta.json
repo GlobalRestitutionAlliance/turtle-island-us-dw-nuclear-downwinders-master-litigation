@@ -1,0 +1,12 @@
+{
+  "url": "https://www.energy.gov/nnsa/national-nuclear-security-administration",
+  "final_url": "https://www.energy.gov/nnsa/national-nuclear-security-administration",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 147416,
+  "sha256": "1fd984ec2b6fca82481286b3d5bfcad56673bc491e55560fe403a50dceac64f6",
+  "captured_at": "2026-11-22T16:39:54.910071Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}

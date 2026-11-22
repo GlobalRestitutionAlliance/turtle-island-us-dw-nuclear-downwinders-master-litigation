@@ -1,0 +1,12 @@
+{
+  "url": "https://www.justice.gov/civil/common/reca",
+  "final_url": "https://www.justice.gov/civil/reca",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 98717,
+  "sha256": "8593099cfa9080a4e15922050a2164597a843a44313e5c9c845b7904f86accd5",
+  "captured_at": "2026-11-22T16:39:55.326440Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
