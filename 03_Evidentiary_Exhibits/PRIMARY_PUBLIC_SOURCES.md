@@ -1,8 +1,23 @@
 # Primary Public Sources
 
+
 - [US National Archives](https://www.archives.gov/)
 - [Library of Congress](https://www.loc.gov/)
 - [US State Dept FRUS](https://history.state.gov/historicaldocuments)
 - [DOJ Civil Rights Division](https://www.justice.gov/crt)
 - [UN OHCHR](https://www.ohchr.org/)
 - [CourtListener](https://www.courtlistener.com/)
+- [Chronicling America (LOC Newspapers)](https://chroniclingamerica.loc.gov/)
+- [HathiTrust Digital Library](https://www.hathitrust.org/)
+- [Internet Archive](https://archive.org/)
+- [FOIA.gov](https://www.foia.gov/)
+- [NARA FOIA](https://www.archives.gov/foia)
+- [UN Digital Library](https://digitallibrary.un.org/)
+- [Justia](https://www.justia.com/)
+- [WorldCat](https://search.worldcat.org/)
+- [Wikisource](https://en.wikisource.org/)
+- [US Govt Publishing Office](https://www.govinfo.gov/)
+- [DOE OpenNet / Declassified](https://www.osti.gov/opennet/)
+- [NNSA](https://www.energy.gov/nnsa/national-nuclear-security-administration)
+- [RECA Program (DOJ)](https://www.justice.gov/civil/common/reca)
+- [NARA - Nuclear Testing Records](https://www.archives.gov/research/military/atomic-energy)
