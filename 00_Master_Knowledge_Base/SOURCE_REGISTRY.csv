@@ -1,0 +1,11 @@
+source_id,title,url,source_type,access_method,verification_status,notes
+SRC-0001,US DOJ Radiation Exposure Compensation Act,https://www.justice.gov/civil/common/reca,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0002,NNSA / DOE nuclear testing history,https://www.nnss.gov/pages/resources/library/NNSSHistory.html,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0003,CDC radiation studies,https://www.cdc.gov/nceh/radiation/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0004,National Cancer Institute - I-131 fallout,https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/i131-fallout,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0005,Library of Congress - nuclear downwinders,https://www.loc.gov/item/?q=nuclear+downwinders,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0006,HathiTrust Digital Library,https://babel.hathitrust.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0007,Chronicling America LOC,https://chroniclingamerica.loc.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0008,Congress.gov RECA legislation,https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Radiation+Exposure+Compensation+Act%22%7D,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0009,Justia,https://www.justia.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
+SRC-0010,CourtListener,https://www.courtlistener.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot completion batch source registry; verify before legal reliance.
