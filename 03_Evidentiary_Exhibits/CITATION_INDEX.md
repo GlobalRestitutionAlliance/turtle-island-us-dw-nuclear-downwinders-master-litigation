@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off. 404/not-found captures are marked NOT_SUBSTANTIVE_404_PENDING_RECAPTURE and are not substantive evidence until recaptured.
 
 - CIT-0001: https://www.cdc.gov/niosh/ocas/ocascomp.html | `03_Evidentiary_Exhibits/Immutable_Ledger/CDC_NIOSH_Radiation_browser.html` | `86382d059554badc...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `aff823e91b712f5e...` | PENDING_LEGAL_REVIEW
@@ -27,6 +27,6 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0023: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `8f4e75909c49686d...` | PENDING_LEGAL_REVIEW
 - CIT-0024: https://www.cdc.gov/nceh/radiation/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CDC_radiation_studies_browser.html` | `77021c20a6662bb7...` | PENDING_LEGAL_REVIEW
 - CIT-0025: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
-- CIT-0026: https://www.loc.gov/item/?q=nuclear+downwinders | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_nuclear_downwinders_browser.html` | `4eb0458ca3f9873d...` | PENDING_LEGAL_REVIEW
-- CIT-0027: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/i131-fallout | `03_Evidentiary_Exhibits/Immutable_Ledger/National_Cancer_Institute_-_I-131_fallout_browser.html` | `cb4022ac384d10e6...` | PENDING_LEGAL_REVIEW
-- CIT-0028: https://www.nnss.gov/pages/resources/library/NNSSHistory.html | `03_Evidentiary_Exhibits/Immutable_Ledger/NNSA_DOE_nuclear_testing_history_browser.html` | `9b15e01e46a43008...` | PENDING_LEGAL_REVIEW
+- CIT-0026: https://www.loc.gov/item/?q=nuclear+downwinders | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_nuclear_downwinders_browser.html` | `4eb0458ca3f9873d...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
+- CIT-0027: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/i131-fallout | `03_Evidentiary_Exhibits/Immutable_Ledger/National_Cancer_Institute_-_I-131_fallout_browser.html` | `cb4022ac384d10e6...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
+- CIT-0028: https://www.nnss.gov/pages/resources/library/NNSSHistory.html | `03_Evidentiary_Exhibits/Immutable_Ledger/NNSA_DOE_nuclear_testing_history_browser.html` | `9b15e01e46a43008...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
